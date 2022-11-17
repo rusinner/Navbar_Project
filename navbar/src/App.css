@@ -81,12 +81,11 @@ ul {
   .links-container {
     position: relative;
     margin-left: -55rem;
-    /* border: 1px solid black; */
     width: 100%;
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    height: auto;
+    height: auto !important;
   }
   .links {
     display: flex;
